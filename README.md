@@ -89,4 +89,4 @@ Aspiring to grow as a **Tier 1 SOC Analyst / Junior Cybersecurity Analyst**, whe
 aksheyarajkumar13@gmail.com  
 LinkedIn: https://www.linkedin.com/in/aksheya-preeya-rajkumar-72630621a/  
 
- **Open to Junior SOC Analyst / Cybersecurity Analyst roles in New Brunswick & Ontario**
+ **Open to Junior SOC Analyst / Cybersecurity Analyst roles**
