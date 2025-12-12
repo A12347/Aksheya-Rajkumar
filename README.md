@@ -8,12 +8,12 @@ I enjoy investigating alerts, improving detection workflows, and supporting orga
 
 ---
 
-## 🎯 Objective
+##  Objective
 Aspiring to grow as a **Tier 1 SOC Analyst / Junior Cybersecurity Analyst**, where I can apply my experience in **SIEM monitoring, incident triage, cloud security, and identity protection** to defend organizations against cyber threats.
 
 ---
 
-## 💡 Skills & Projects
+##  Skills & Projects
 
 | Skill | Associated Project |
 | SIEM Monitoring & Threat Detection | Microsoft Sentinel Security Monitoring & Incident Response |
