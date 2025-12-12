@@ -26,33 +26,33 @@ Aspiring to grow as a **Tier 1 SOC Analyst / Junior Cybersecurity Analyst**, whe
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
-### 🌐 Network
+###  Network
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-lightgrey)
 
-### 🖥️ Endpoint & EDR
+###  Endpoint & EDR
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-red)
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-blue)
 
-### 📊 SIEM & Automation
+###  SIEM & Automation
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-blue?logo=microsoft)
 ![ConnectWise SIEM](https://img.shields.io/badge/ConnectWise%20SIEM-green)
 
-### 🔐 Cloud & IAM
+###  Cloud & IAM
 ![Azure AD](https://img.shields.io/badge/Azure%20AD-blue)
 ![Entra ID](https://img.shields.io/badge/Entra%20ID-blue)
 ![AWS](https://img.shields.io/badge/AWS-orange)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-orange)
 
-### 🧾 SOC Documentation & Reporting
+###  SOC Documentation & Reporting
 ![Incident Reports](https://img.shields.io/badge/Incident%20Reports-grey)
 ![SOC Runbooks](https://img.shields.io/badge/SOC%20Runbooks-purple)
 ![Confluence](https://img.shields.io/badge/Confluence-blue?logo=confluence)
 ![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-grey)
 
-### 🧾 Ticketing & Workflow
+###  Ticketing & Workflow
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-green)
 ![Jira](https://img.shields.io/badge/Jira-blue)
 
