@@ -1,4 +1,4 @@
-Aksheya Preeya Rajkumar — Cybersecurity Portfolio
+HELLO , I'm Aksheya Preeya Rajkumar 
 
 Cybersecurity Passionate  with 3+ years of experience in SOC operations, SIEM monitoring, cloud security, and identity security. This portfolio highlights hands-on projects aligned with real-world SOC workflows.
 
