@@ -1,6 +1,6 @@
-HELLO , I'm Aksheya Preeya Rajkumar 
+HELLO , I'm Aksheya Preeya Rajkumar :))
 
-Cybersecurity Passionate  with 3+ years of experience in SOC operations, SIEM monitoring, cloud security, and identity security. This portfolio highlights hands-on projects aligned with real-world SOC workflows.
+I'm Cybersecurity Passionate  with 3+ years of experience in SOC operations, SIEM monitoring, cloud security, and identity security. This portfolio highlights hands-on projects aligned with real-world SOC workflows.
 
 ## Focus Areas
 - SIEM monitoring & alert triage
